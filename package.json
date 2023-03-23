@@ -1,0 +1,19 @@
+{
+  "name": "beacon-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "ts-node src/bot.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.15.5",
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
+}
